@@ -1,0 +1,183 @@
+.franja{
+    border: 0;
+    height: 10px;
+    background-color: #cc9900;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.franjanaranja {
+    border: 0;
+    height: 7px;
+    position: absolute;
+    max-width: 60px;
+    margin: 7px 0px 20px 0px;
+    background-color: #cc9900;
+    width: 60px;
+    margin-bottom: 30px;
+}
+
+ul{
+    text-align: left;
+    margin-left: 25px;
+}
+
+.pie{
+    border: 0;
+    margin: 70px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    display: inline-block;
+    background-color: #800000;
+    color: white;
+    width: 60%;
+}
+.pie p {
+    color: white;
+    text-align: center;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+h5 {
+    
+    font-size: large;
+    font-weight: bold;
+    color: #cc9900;
+    text-align: left;
+}
+
+.negrita {
+    font-weight: bolder;
+}
+
+.rojita {
+    font-weight: bolder;
+    color: #800000;
+}
+
+.engranaje {
+    text-align: left;
+    position: static;
+    float: left;
+    margin-right: 10px;
+}
+
+.apartado {
+    border-width: 40px;
+    border: 1px solid #800000;
+    margin: 70px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.apartado p {
+    text-align: left;
+}
+
+h4{
+    font-size: medium;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.apartadoimage {
+    border-width: 40px;
+    width: 220px;
+    height: 190px;
+    border: 0;
+    background-position: right;
+    background-size: 320px;
+    margin: 0 220px;
+    margin-bottom: 30px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    
+}
+
+.resaltado {
+    font-weight: bolder;
+    color: #cc9900;
+    font-size: small;
+    text-align: left;
+}
+
+.franjaroja {
+    border: 0;
+    height: 7px;
+    max-width: 60px;
+    margin: 15px 0px 20px 0px;
+    background-color: #800000;
+    width: 60px;
+    margin-bottom: 30px;
+}
+
+
+*{
+    margin: auto;
+    font-family: Helvetica;
+
+}
+
+h1 {
+font-size: 30px;
+text-align: left;
+}
+
+p{
+    font-size: small;
+    margin: 30px;
+    text-align: left;
+    font-family: Helvetica;
+}
+
+h2 {
+font-size: medium;
+}
+
+.ancho {
+    width: 60%;
+    margin: auto;
+}
+
+.bienvenida {
+    background-color: #F2F2F2;
+    border: 0;
+    margin-left: 70px;
+    margin: 0 auto;
+    padding: 10px 30px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.botonrojo {
+    background-color: #800000;
+    color: white;
+    padding: 10px 30px;  
+    text-decoration: none;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+  .botonrojo:hover {
+      background-color: #705118;
+      color: white;
+  }
+
+  .menu{
+    text-align: center;
+}
+
+.contenedorimagen{
+    border: 0;
+    height: 20px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 220px;
+}
