@@ -177,7 +177,7 @@ font-size: medium;
 .contenedorimagen{
     border: 0;
     height: 20px;
-    width: 70%;
     margin: auto;
+    display: flex;
     margin-bottom: 220px;
 }
