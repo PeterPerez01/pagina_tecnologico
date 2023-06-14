@@ -88,7 +88,7 @@ h4{
 
 .apartadoimage {
     border-width: 40px;
-    width: 220px;
+    width: 26%;
     height: 190px;
     border: 0;
     background-position: right;
@@ -121,7 +121,6 @@ h4{
 *{
     margin: auto;
     font-family: Helvetica;
-
 }
 
 h1 {
@@ -176,8 +175,13 @@ font-size: medium;
 
 .contenedorimagen{
     border: 0;
-    height: 20px;
+    height: 3%;
     margin: auto;
     display: flex;
     margin-bottom: 220px;
+}
+
+.contenedorimagen img {
+    width: 67%;
+    height:auto;
 }
